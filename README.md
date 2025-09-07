@@ -1,0 +1,2 @@
+# A-Stock-price-prediction-model-based-on-investor-sentiment-and-optimized-deep-learning-
+This repository presents a streamlined yet effective approach to forecasting stock prices by combining investor sentiment analysis with deep learning optimization. The model is designed to capture both the quantitative and qualitative drivers of market movement, offering a more holistic view of price prediction.
